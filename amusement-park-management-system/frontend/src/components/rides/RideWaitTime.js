@@ -1,0 +1,1 @@
+Display wait time for rides
